@@ -8,5 +8,6 @@ int main(){
     while(t--){
         //ll n;
         //cin>>n
+        
     }
 }
