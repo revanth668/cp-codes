@@ -30,6 +30,7 @@ public:
             long long count = p.second;
             ans += count * (count - 1) / 2;
         }
+        
         // use pnc formulas to calculate ans within O(n)
         return ans;
     }
